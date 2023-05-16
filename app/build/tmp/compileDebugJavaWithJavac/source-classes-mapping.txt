@@ -1,0 +1,5 @@
+com/beingcoderz/randomimage/BuildConfig.java
+ com.beingcoderz.randomimage.BuildConfig
+com/beingcoderz/randomimage/MainActivity.java
+ com.beingcoderz.randomimage.MainActivity
+ com.beingcoderz.randomimage.MainActivity$1
